@@ -1,0 +1,27 @@
+# dependencies
+node_modules/
+
+# environment
+.env
+.env.local
+.env.*.local
+
+# Next.js
+.next/
+out/
+
+# SvelteKit
+.svelte-kit/
+build/
+
+# build
+dist/
+
+# test
+coverage/
+
+# macOS
+.DS_Store
+
+# editor
+.vscode/
