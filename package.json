@@ -14,5 +14,8 @@
   "volta": {
     "node": "24.14.1",
     "pnpm": "10.22.0"
+  },
+  "devDependencies": {
+    "supabase": "^2.119.0"
   }
 }
